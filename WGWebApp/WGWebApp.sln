@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGWebApp", "WGWebApp\WGWebApp.csproj", "{ECB503BA-C3F1-4524-8F60-AC8B9B4C0362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGWebApp.Tests", "WGWebApp.Tests\WGWebApp.Tests.csproj", "{D3382929-41A7-41B1-A57D-6000199DCD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB503BA-C3F1-4524-8F60-AC8B9B4C0362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB503BA-C3F1-4524-8F60-AC8B9B4C0362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB503BA-C3F1-4524-8F60-AC8B9B4C0362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB503BA-C3F1-4524-8F60-AC8B9B4C0362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3382929-41A7-41B1-A57D-6000199DCD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3382929-41A7-41B1-A57D-6000199DCD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3382929-41A7-41B1-A57D-6000199DCD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3382929-41A7-41B1-A57D-6000199DCD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC9344F-1202-4C75-96A9-6D4ECCD27EF0}
+	EndGlobalSection
+EndGlobal
